@@ -1,4 +1,4 @@
-# 🪐 [Portfolio](https://alexisintech.github.io)
+# 🪐 [Portfolio](https://alexisin.tech)
 
 > An interactive, fully responsive portfolio to let people get to know me a little, and to showcase a few of my projects.
 
