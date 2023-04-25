@@ -1,38 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🪐 [Portfolio](https://alexisintech.github.io)
 
-## Getting Started
+> An interactive, fully responsive portfolio to let people get to know me a little, and to showcase a few of my projects.
 
-First, run the development server:
+<img src="https://github.com/alexisintech/alexisintech.github.io/blob/update-main/public/portfolio.gif" width="100%" />
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<!-- FEATURES -->
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ⭐ Features
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+- Projects section showcasing my best personal, open source, and client projects
+- About me section with a extendable bio, and four extendable key values/points about myself
+- Skills section illustrating different tech languages I am proficient in
+- Social links to get the full breadth of my wonderful content 😄
+- /Links for a link-tree inspired list of my social links
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+<!-- BUILT WITH -->
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 🛠️ Built With
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- React, React Bootstrap
+- Tailwind
+- HTML5/CSS3
+- Next.js
+- Typescript
+- Javascript ES6
+- ESlint, Stylelint
+- Vercel
 
-## Learn More
+<!-- ROADMAP -->
 
-To learn more about Next.js, take a look at the following resources:
+## 🌠 Roadmap
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [X] Mobile-first design; responsiveness using CSS Flexbox, Bootstrap, and react-bootstrap
+- [X] Transitions/animations on interactive elements
+- [X] Maybe add an option to extend the bio EVEN more
+  - Mention something about my transition from the biology/veterinary medicine field
+- [ ] Rearchitect the bootstrap styling to Tailwind styling
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<!-- TEA SPILL -->
+## 🌝 Tea Spill
 
-## Deploy on Vercel
+WOW am I in love with React. After learning React, this is one of the funnest projects I've done so far because the components are so organized and my code is so DRY!!! I'm not the biggest fan of Bootstrap, but it made responsiveness pretty quick and simple (I can't wait to tackle Tailwind). Learning about the typing effect for my banner section was so cool - I have the same effect on my github page but I always wanted to look into how it worked and now I've built one myself! This was my first time using animate.css and I used it in a pretty simple way, so I can't wait to see how I can use this tool in the future. Overall, I'm absolutely loving the simplicity of the site.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+04/25/2023 Update: Migrated the CRA app to a Vercel deployed Next.js app :~) Set up a new /links route with Next's routing (sooo easy). Migrated the jsx files to tsx files. 
