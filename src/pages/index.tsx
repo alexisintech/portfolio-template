@@ -1,9 +1,9 @@
-import { NavBar } from "@/components/NavBar";
-import { Banner } from "@/components/Banner";
-import { About } from "@/components/About";
-import { Skills } from "@/components/Skills";
-import { Projects } from "@/components/Projects";
-import { Footer } from "@/components/Footer";
+import { NavBar } from "@/components/main/NavBar";
+import { Banner } from "@/components/main/Banner";
+import { About } from "@/components/main/About";
+import { Skills } from "@/components/main/Skills";
+import { Projects } from "@/components/main/Projects";
+import { Footer } from "@/components/main/Footer";
 
 function Home() {
   return (
