@@ -10,7 +10,7 @@ function Home() {
   return (
     <>
       <Head>
-        <title>alexisintech | Full Stack Software Engineer</  title>
+        <title>alexisintech | Full Stack Software Engineer</title>
         <meta
         name="description"
         content="Alexis Aguilar is an insatiably inquisitive  software engineer who is passionate about full stack web   development. Take a minute to learn a little about her  and see a few of her projects."/>
