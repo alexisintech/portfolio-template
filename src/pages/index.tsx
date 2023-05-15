@@ -12,16 +12,17 @@ function Home() {
       <Head>
         <title>alexisintech | Full Stack Software Engineer</title>
         <meta
-        name="description"
-        content="Alexis Aguilar is an insatiably inquisitive  software engineer who is passionate about full stack web   development. Take a minute to learn a little about her  and see a few of her projects."/>
+          name="description"
+          content="Alexis Aguilar is a full stack software engineer and community leader. Take a minute to learn a little about her and see a few of her projects."
+        />
       </Head>
       <div className="Home">
-        <NavBar />
+        {/* <NavBar /> */}
         <Banner />
-        <Projects />
+        {/* <Projects />
         <About />
         <Skills />
-        <Footer />
+        <Footer /> */}
       </div>
     </>
   );

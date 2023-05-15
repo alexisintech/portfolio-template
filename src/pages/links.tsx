@@ -11,7 +11,7 @@ function LinksIndex() {
         <meta
           name="description"
           content="Alexis Aguilar's social links, all in one place for convenience."
-        />  
+        />
       </Head>
       <div className="links-index min-h-screen bg-black text-white">
         <div className="container mx-auto flex min-h-screen flex-col items-center text-center">
