@@ -1,4 +1,4 @@
-# 🪐 [Portfolio](https://alexisin.tech)
+# 🪐 [Portfolio Template](https://alexisintech-portfolio-template.netlify.app/)
 
 > An interactive, fully responsive portfolio to let people get to know me a little, and to showcase a few of my projects.
 
