@@ -10,10 +10,10 @@ function Home() {
   return (
     <>
       <Head>
-        <title>alexisintech | Full Stack Software Engineer</title>
+        <title>nicolawani | Full Stack Software Engineer</title>
         <meta
         name="description"
-        content="Alexis Aguilar is an insatiably inquisitive  software engineer who is passionate about full stack web   development. Take a minute to learn a little about her  and see a few of her projects."/>
+        content="Goodluck (Nico) Lawani is an insatiably inquisitive  software engineer who is passionate about full stack web   development. Take a minute to learn a little about him  and see a few of his projects."/>
       </Head>
       <div className="Home">
         <NavBar />

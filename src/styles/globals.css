@@ -131,7 +131,7 @@ nav.navbar .navbar-brand, .brand {
 }
 
 nav.navbar .navbar-brand span:nth-child(even), .brand span:nth-child(even){
-  color:rgb(177, 28, 21);
+  color: blue;
 }
 
 nav.navbar .navbar-nav .nav-link.navbar-link {
@@ -146,7 +146,7 @@ nav.navbar .navbar-nav .nav-link.navbar-link {
 nav.navbar .navbar-nav a.nav-link.navbar-link:hover,
 nav.navbar .navbar-nav a.nav-link.navbar-link.active {
     opacity: 1;
-    color:rgb(177, 28, 21) !important;
+    color:blue !important;
 }
 
 span.navbar-text {
@@ -680,7 +680,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 .project .nav.nav-pills .nav-link:hover{
-  background: linear-gradient(90.21deg, rgb(170, 54, 54) -5.91%, rgb(36, 50, 173) 111.58%); 
+  background: linear-gradient(90.21deg, rgb(170, 54, 54) -5.91%, rgb(36, 50, 173) 111.58%);
 }
 
 .project .nav.nav-pills .nav-link::before {
@@ -844,7 +844,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 .button:hover{
 	transform:translateY(-2px)}
-	
+
 .button:hover:before,.button:hover:after{
 	border-color:transparent;
 	filter:blur(2px);

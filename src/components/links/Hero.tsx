@@ -9,7 +9,7 @@ const Hero = () => {
         alt="@alexisxdawn Profile Picture | picture of alexisintech | picture of alexisxdawn | picture of Alexis Aguilar"
       />
 
-      <h1 className="text-4xl">Alexis Aguilar</h1>
+      <h1 className="text-4xl">Goodluck Lawani</h1>
       <h2 className="text-xl">Software Engineer | Community Leader</h2>
     </div>
   );

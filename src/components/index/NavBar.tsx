@@ -28,8 +28,8 @@ export const NavBar = () => {
     <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
       <Container>
         <Navbar.Brand href="/" className="navbar-brand">
-          <span>alexis</span>
-          <span>intech</span>
+          <span>nico</span>
+          <span>lawani</span>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav">
           <span className="navbar-toggler-icon"></span>
