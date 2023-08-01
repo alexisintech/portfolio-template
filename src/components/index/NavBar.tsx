@@ -28,7 +28,7 @@ export const NavBar = () => {
     <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
       <Container>
         <Navbar.Brand href="/" className="navbar-brand">
-          <span>nico</span>
+          <span>code</span>
           <span>lawani</span>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav">
@@ -76,7 +76,7 @@ export const NavBar = () => {
           <span className="navbar-text">
             <div className="social-icon">
               <a
-                href="https://www.linkedin.com/in/alexisintech/"
+                href="https://www.linkedin.com/in/codelawani/"
                 rel="noreferrer"
                 target="_blank"
                 aria-label="linkedin"
@@ -89,7 +89,7 @@ export const NavBar = () => {
                 />
               </a>
               <a
-                href="https://github.com/alexisintech"
+                href="https://github.com/codelawani"
                 rel="noreferrer"
                 target="_blank"
                 aria-label="github"
@@ -102,7 +102,7 @@ export const NavBar = () => {
                 />
               </a>
               <a
-                href="https://twitter.com/alexisintech"
+                href="https://twitter.com/codelawani"
                 rel="noreferrer"
                 target="_blank"
                 aria-label="twitter"

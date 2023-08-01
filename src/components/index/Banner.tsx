@@ -75,8 +75,8 @@ export const Banner = () => {
                 <div>
                   <p>
                     Goodluck(Nico)Lawani is a full-stack developer who specializes in
-                    JavaScript & Python technologies. He has proven client and
-                    open-source experience building RESTful API's and delivering
+                    JavaScript & Python technologies. He has practical an hands-on
+                    experience building RESTful API's and delivering
                     responsive, scalable user interfaces. His background in
                     civil engineering has created a solid foundation of team communication,
                     an obsession for detail, and a passion for
@@ -102,8 +102,8 @@ export const Banner = () => {
                 <div>
                   <p>
                     Goodluck(Nico) Lawani is a full-stack developer who specializes in
-                    Python & JavaScript technologies. He has proven client and
-                    open-source experience building RESTful API's and delivering
+                      Python & JavaScript technologies. He has practical and hands on
+                      experience building RESTful API's and delivering
                     responsive, scalable user interfaces.
                   </p>
                   <button
@@ -130,7 +130,7 @@ export const Banner = () => {
                 width="500"
                 height="500"
                 src="/assets/imgs/profile-pic.webp"
-                alt="Headshot of Nico Lawani"
+                alt="Headshot of Gopdluck Lawani"
               />
             </div>
           </Col>

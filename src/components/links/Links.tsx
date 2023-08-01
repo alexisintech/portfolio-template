@@ -3,23 +3,19 @@ import Link from "./Link";
 let linksList = [
   {
     title: "Portfolio",
-    link: "https://alexisin.tech",
+    link: "#",
   },
   {
     title: "LinkedIn",
-    link: "https://www.linkedin.com/in/alexisintech/",
+    link: "https://www.linkedin.com/in/codelawani",
   },
   {
     title: "Twitter",
-    link: "https://twitter.com/alexisintech",
+    link: "https://twitter.com/codelawani",
   },
   {
     title: "Github",
-    link: "https://github.com/alexisintech",
-  },
-  {
-    title: "Bluesky",
-    link: "https://bsky.app/profile/alexisin.tech",
+    link: "https://github.com/codelawani",
   },
 ];
 
